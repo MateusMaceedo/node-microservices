@@ -4,6 +4,4 @@
  Node JS
 </h1>
 
-Base e estudos sobre arquitetura sobre node e monorepo.
-
-[Mapa Mentaç](https://whimsical.com/node-js-PRf8QedsoRMPtc6hmN63gg)
+- [Mapa Mental](https://whimsical.com/node-js-PRf8QedsoRMPtc6hmN63gg)
