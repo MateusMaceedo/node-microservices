@@ -10,3 +10,12 @@
 <img src="https://lh3.googleusercontent.com/ZV-qny93B6_at5OG4qsNPD8sm-MxosRWUl946saKmSepdYMPGJ_BRDmJE08GoCOIYyZhl49t3SmyuJPLf1eP3pBOYcEPDG8dYkCxYitb5yox8quMG3oBLS1Z0ft0L04CxjknImil" width="741" height="441">
  <br>
 </h1>
+
+## 👨🏻‍🚀 Sobre mim
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
+
+## 💜 Agradecimentos
+Obrigado [Rocketseat](https://rocketseat.com.br) por disponibilizar esse conteúdo de maneira acessível a todos🚀.
