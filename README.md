@@ -11,7 +11,7 @@
  <br>
 </h1>
 
-#### Tecnologias
+## :computer:  Tecnologias
 - [mongoosejs](https://mongoosejs.com/docs/guide.html)
 - [Express](http://expressjs.com/en/5x/api.html#app.use)
 - [mongoDB](https://www.mongodb.com/cloud/atlas)
